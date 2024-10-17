@@ -200,6 +200,8 @@ max-width: 1440px;
 	), 
     url("/images/hero.jpg");
 padding: 188px 0;
+margin-left: auto;
+margin-right: auto;
 }
 .section-solutions .container{
 display: flex;
